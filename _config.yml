@@ -117,9 +117,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Neurotech & wearable robotics enthusiast | BCI systems & embedded hardware"
   location         : "South Korea"
-  email            :
+  email            : "job545job545@gmail.com"
   links:
-    - label: "job545job545@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
