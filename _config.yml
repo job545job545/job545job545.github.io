@@ -124,7 +124,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" # url: "https://your-website.com"
+      url: "www.linkedin.com/in/ginam-park-940164262" # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -168,7 +168,7 @@ footer:
       url: "https://youtube.com/@pop3o2qj9?si=IODFRIDAS5dFRvKk" # url: "https://facebook.com/"-
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/ginam-park-940164262" # url: "https://your-website.com"
 
 # Reading Files
 include:
