@@ -140,6 +140,8 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://youtube.com/@pop3o2qj9?si=IODFRIDAS5dFRvKk" # url: "https://facebook.com/"
+
+
 # Site Footer
 footer:
   links:
@@ -151,7 +153,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/job545job545" # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -161,7 +163,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://youtube.com/@pop3o2qj9?si=IODFRIDAS5dFRvKk" # url: "https://facebook.com/"-
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" # url: "https://your-website.com"
 
 # Reading Files
 include:
