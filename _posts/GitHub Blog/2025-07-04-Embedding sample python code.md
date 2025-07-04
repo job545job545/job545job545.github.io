@@ -7,7 +7,7 @@ title:  "Embedding sample python code"
 
 - **format**  
 <br><br>
-type \`\`\`(backticks)language type
+type \`\`\`(backticks/backquoutes)language type
    
   your codes
     
