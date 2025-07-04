@@ -1,6 +1,6 @@
 ---
 layout:  single
-title:  "Add site footer"
+title:  "Add site links"
 ---
 
 # Add linkedin, Youtube, GitHub links
