@@ -137,7 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "YouTube"
+      icon: "fab fa-fw fa-YouTube-square"
+      url: "https://youtube.com/@pop3o2qj9?si=IODFRIDAS5dFRvKk" # url: "https://facebook.com/"
 # Site Footer
 footer:
   links:
