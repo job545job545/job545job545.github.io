@@ -1,7 +1,7 @@
 ---
 layout:  single
 title:  "Embedding sample python code"
-categories: Github Blog
+categories: Github_Blog
 ---
 
 # How to insert codes

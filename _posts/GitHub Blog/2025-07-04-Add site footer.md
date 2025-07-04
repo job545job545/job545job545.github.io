@@ -1,7 +1,7 @@
 ---
 layout:  single
 title:  "Add site links"
-categories: Github Blog
+categories: Github_Blog
 ---
 
 # Add linkedin, Youtube, GitHub links

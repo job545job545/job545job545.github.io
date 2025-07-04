@@ -1,7 +1,7 @@
 ---
 layout:  single
 title:  "Local Server Test"
-categories: Github Blog
+categories: Github_Blog
 ---
 
 # real-time test.
