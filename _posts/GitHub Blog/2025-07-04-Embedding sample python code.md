@@ -1,6 +1,6 @@
 ---
 layout:  single
-title:  "Embedding sample python code"
+title:  "Embed sample python code"
 categories: GitHub_Blog
 ---
 
