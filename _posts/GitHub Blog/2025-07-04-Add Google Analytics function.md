@@ -1,7 +1,7 @@
 ---
 layout:  single
 title:  "Add Google Analytics function"
-categories: Github_Blog
+categories: GitHub_Blog
 ---
 
 # Analytics function test

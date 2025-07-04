@@ -1,7 +1,7 @@
 ---
 layout:  single
 title:  "Add comments function with Disqus"
-categories: Github_Blog
+categories: GitHub_Blog
 ---
 
 # ADD comments function

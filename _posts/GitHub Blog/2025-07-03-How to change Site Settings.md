@@ -1,7 +1,7 @@
 ---
 layout:  single
 title:  "Change site settings"
-categories: Github_Blog
+categories: GitHub_Blog
 ---
 
 # Basic site settings changing test
