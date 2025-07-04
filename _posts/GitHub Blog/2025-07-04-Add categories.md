@@ -6,10 +6,10 @@ categories: GitHub_Blog
 
 # How to categorize posts
 
-- 1. uncomment jekyll-archives code block (_config.yml).
+- 1. Uncomment jekyll-archives code block (_config.yml).
   2. Add _pages derectory in the blog derectory
   3. Add "category-archive.md" file
-  4. write following codes
+  4. Write following codes
 ```markdown
 ---
 title: "Category"
