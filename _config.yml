@@ -331,6 +331,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: true # true
-      share: true
+      share: false # deactive shareing my post.
       related: true
       show_date: true
